@@ -1,0 +1,181 @@
+.container {
+    text-align: center;            
+}
+.img1{
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+      
+       }
+    
+.centered1 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin-top: 220px;margin-bottom: 50px;margin-left: -48px;margin-right: -100px;
+    padding-top: 20px;padding-bottom: 250px;padding-left: 50px;padding-right: 10px;
+         
+      }
+  .img2{
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    transform: skewY(-6deg);
+    margin-top: -58px;
+
+}
+.centered2{
+    position: absolute;
+    top:70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;border-bottom: hidden;
+    margin-top: 120px;margin-bottom: 50px;margin-left: -47px;margin-right: -75px;
+    padding-top: 250px;padding-bottom: 250px;padding-left: 50px;padding-right: 5px;
+    
+}
+.img3{
+    position: relative;
+    max-width: 100%;
+    height: 10%;
+    transform: skewY(-6deg);
+    margin-top: -5px;
+}
+.centered3{
+    position: absolute;
+    top:150%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;border-bottom: hidden;
+    margin-top: 120px;margin-bottom: 50px;margin-left: -47px;margin-right: -75px;
+    padding-top: 400px;padding-bottom: 500px;padding-left: 50px;padding-right: 5px;
+}
+.img4{
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+    transform: skewY(-6deg);
+    margin-top: -5px;
+}
+.centered4{
+    position: absolute;
+    top:280%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;border-bottom: hidden;
+    margin-top: 60px;margin-bottom: 50px;margin-left: -47px;margin-right: -75px;
+    padding-top: 250px;padding-bottom: 250px;padding-left: 50px;padding-right: 5px;
+}
+.img5{
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+    transform: skewY(-6deg);
+    margin-top: -15px;
+}
+.centered5{
+    position: absolute;
+    top:380%;
+    left: 50%;
+    transform: translate(-50%, -50%);border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;border-bottom: hidden;
+    margin-top: 50px;margin-bottom: 120px;margin-left: -47px;margin-right: -75px;
+    padding-top: 250px;padding-bottom: 300px;padding-left: 50px;padding-right: 5px;
+}
+.img6{
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+    transform: skewY(-6deg);
+    margin-top: -15px;
+}
+.centered6{
+    position: absolute;
+    top:480%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;border-bottom: hidden;
+    margin-top: 40px;margin-bottom: 50px;margin-left: -47px;margin-right: -75px;
+    padding-top: 300px;padding-bottom: 250px;padding-left: 50px;padding-right: 5px;
+}
+.img7{
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+    transform: skewY(-6deg);
+    margin-top: -15px;
+}
+.centered7{
+    position: absolute;
+    top:600%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;border-bottom: hidden;
+    margin-top: 10px;margin-bottom: 50px;margin-left: -47px;margin-right: -75px;
+    padding-top: 250px;padding-bottom: 250px;padding-left: 50px;padding-right: 5px;
+}
+.img8{
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+    transform: skewY(-6deg);
+    margin-top: -15px;
+}
+.centered8{
+    position: absolute;
+    top:650%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;border-bottom: hidden;
+    margin-top: 140px;margin-bottom: 50px;margin-left: -47px;margin-right: -75px;
+    padding-top: 250px;padding-bottom: 250px;padding-left: 50px;padding-right: 5px;
+}
+.img9{
+    position: relative;
+    max-width: 100%;
+    max-height: 50%;
+    width: 100%;
+    margin-top: -60px;
+    padding-bottom: -50px;
+
+}
+.centered9{
+    position: absolute;
+    top:780%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: dotted;
+    border-color: aqua;
+    border-top: hidden;
+    margin-top: 10px;margin-bottom: 50px;margin-left: -47px;margin-right: -75px;
+    padding-top: 150px;padding-bottom: 250px;padding-left: 50px;padding-right: 5px;
+}
+ 
+/* https://9elements.com/blog/pure-css-diagonal-layouts/
+https://github.com/rvsp/HTML-CSS/blob/master/Tasks/ifactory-slant-design.pdf 
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_text*/
+
